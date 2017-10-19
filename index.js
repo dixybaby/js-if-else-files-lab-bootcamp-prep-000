@@ -25,3 +25,9 @@ if(height === "74") {
 } else {
   console.log("70")
 }
+
+if(height === "70") {
+  console.log("The height is correct")
+} else {
+  console.log("74")
+}
